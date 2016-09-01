@@ -2,7 +2,7 @@
   "author" : "hotdog929 <hotdog929@gmail.com>",
   "name" : "back-to-top",
   "description" : "back-to-top",
-  "version" : "0.0.1-SNAPSHOT",
+  "version" : "0.0.1",
   "repository" : {
     "type" : "git",
     "url" : "https://github.com/eHanlin/back-to-top.git"

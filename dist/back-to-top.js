@@ -42,7 +42,7 @@
         
         init:function(){
             jQuery(document).ready(function($){
-                var mainobj=scrolltotop
+                var mainobj=backToTop
                 var iebrws=document.all
                 mainobj.cssfixedsupport=!iebrws || iebrws && document.compatMode=="CSS1Compat" && window.XMLHttpRequest
                 mainobj.$body=(window.opera)? (document.compatMode=="CSS1Compat"? $('html') : $('body')) : $('html,body')
