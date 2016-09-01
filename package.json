@@ -1,0 +1,14 @@
+{
+  "author" : "hotdog929 <hotdog929@gmail.com>",
+  "name" : "back-to-top",
+  "description" : "back-to-top",
+  "version" : "0.0.1-SNAPSHOT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/eHanlin/back-to-top.git"
+  },
+  "main" : "dist/back-to-top.js",
+  "dependencies" : {
+    "jquery" : "^2.2.4"
+  }
+}
